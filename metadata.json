@@ -1,0 +1,5 @@
+{
+  "name": "Planificador de Menús de Bienestar",
+  "description": "Un planificador de comidas impulsado por IA que genera menús diarios personalizados para usuarios con condiciones de salud específicas como Colitis Ulcerosa, Hígado Graso y Dislipidemia, enfocándose en recetas bajas en grasa, bajas en fibra y antiinflamatorias.",
+  "requestFramePermissions": []
+}
